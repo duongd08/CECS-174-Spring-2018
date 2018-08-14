@@ -1,8 +1,5 @@
 #A World that's Not Home
 #Interactive Fiction Project
-#Daniel Duong, Peter Vu
-#Alex Nguyen, Cindy Nguyen
-#Raul Dieta
 
 import time
 #Beginning
