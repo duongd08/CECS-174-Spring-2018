@@ -2,6 +2,8 @@ import musicbox
 
 # Name = "D. Duong"
 
+#Taught by Neal Terrell Spring 2018
+
 #sharp = #
 #flat = b
 
