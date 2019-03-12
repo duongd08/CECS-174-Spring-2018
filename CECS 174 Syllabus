@@ -14,10 +14,13 @@ Course Materials Textbooks: We will use an online textbook from Zybooks, customi
 · Subscribe using the code from the bookstore Online activities from the textbook will account for a portion of your overall grade, so you will need your own copy of the book. Supplementary material outside of the class textbook will be presented and included in tests, learning activities and programming projects.
 
 Communication We will use two different means of communication for this course: 
-· BeachBoard: I will post all announcements, lectures, assignments, and grades on BeachBoard. If you have not done so already, you should log in to BeachBoard at shttp://beachboard.csulb.edu, then click your name in the upper right corner and select Notications. Make sure you are receiving Email notications for News - new item available; this will send you an email any time I make an announcement to the class. · Piazza: we will use Piazza (https://piazza.com/csulb/spring2018/cecs174/) for class questions and discussions. Once you register, you can use Piazza to post questions regarding lectures, labs, exams, or any other course topic. Your instructors and fellow classmates can
+· BeachBoard: I will post all announcements, lectures, assignments, and grades on BeachBoard. If you have not done so already, you should log in to BeachBoard at shttp://beachboard.csulb.edu, then click your name in the upper right corner and select Notifications. Make sure you are receiving Email notifications for News - new item available; this will send you an email any time I make an announcement to the class. 
+
+· Piazza: we will use Piazza (https://piazza.com/csulb/spring2018/cecs174/) for class questions and discussions. Once you register, you can use Piazza to post questions regarding lectures, labs, exams, or any other course topic. Your instructors and fellow classmates can
 then respond to your question, providing an answer for everyone else to reference in the future. This is much more efficient than emailing your professor, as it allows any of the teaching assistants (or even your helpful peers) to answer your query, cutting down how long you need to wait for a response.
 
 Grading
+
 Components: 
 · Reading - 5 
 · Labs - 15 
@@ -33,14 +36,14 @@ Class grades will be determined using the traditional scale:
 · F: Grade < 60%
 
 Activities: Each week I will give a reading assignment from the course Zybook. 
-· Before the assigned due date listed on Zybooks  typically half an hour before lecture begins  you must complete the selected readings, and correctly answer the Participation Activities and Challenge Activites contained within. · Participation Activities tend to be easier than Challenge Activities. Both are designed to help reinforce lecture and reading material, and you will get out of them whatever eort you put in. · Readings will cover material not yet presented in lecture, and lectures will be written with the assumption that you have nished the reading assignments. The best way to fall behind in the class is to skip the reading assignments.
+· Before the assigned due date listed on Zybooks. typically half an hour before lecture begins. you must complete the selected readings, and correctly answer the Participation Activities and Challenge Activites contained within. 
+· Participation Activities tend to be easier than Challenge Activities. Both are designed to help reinforce lecture and reading material, and you will get out of them whatever effort you put in. 
+· Readings will cover material not yet presented in lecture, and lectures will be written with the assumption that you have finished the reading assignments. The best way to fall behind in the class is to skip the reading assignments.
 Labs are short programming assignments to be completed during the class' allotted lab time. 
 · The class will be split into 3 separate lab sections. I will lead one, and student assistants will lead the other two. 
 · All labs will have an assigned due date, typically at the end of the lab period in which they are assigned. 
 · You will complete lab assignments with a partner in a process called pair programming, which we will discuss in class.
-
-
-· When complete, you will demo your work to your lab leader, and then turn in your approved work to the course Drop Box on BeachBoard.
+· When complete, you will demo your work to your lab leader, and then turn in your approved work to Drop Box on BeachBoard.
 Homework are longer assignments designed to require a more significant investment of time than labs. You will be assigned approximately 5 during the semester. 
 · Homework assignments will include a programming portion, and some may also include problem solving, writing, or other disciplines. 
 · Unlike labs, you will complete homework assignments on your own, without a partner. 
