@@ -37,14 +37,17 @@ Class grades will be determined using the traditional scale:
 · F: Grade < 60%
 
 Activities: Each week I will give a reading assignment from the course Zybook. 
+
 · Before the assigned due date listed on Zybooks. typically half an hour before lecture begins. you must complete the selected readings, and correctly answer the Participation Activities and Challenge Activites contained within. 
 · Participation Activities tend to be easier than Challenge Activities. Both are designed to help reinforce lecture and reading material, and you will get out of them whatever effort you put in. 
 · Readings will cover material not yet presented in lecture, and lectures will be written with the assumption that you have finished the reading assignments. The best way to fall behind in the class is to skip the reading assignments.
+
 Labs are short programming assignments to be completed during the class' allotted lab time. 
 · The class will be split into 3 separate lab sections. I will lead one, and student assistants will lead the other two. 
 · All labs will have an assigned due date, typically at the end of the lab period in which they are assigned. 
 · You will complete lab assignments with a partner in a process called pair programming, which we will discuss in class.
 · When complete, you will demo your work to your lab leader, and then turn in your approved work to Drop Box on BeachBoard.
+
 Homework are longer assignments designed to require a more significant investment of time than labs. You will be assigned approximately 5 during the semester. 
 · Homework assignments will include a programming portion, and some may also include problem solving, writing, or other disciplines. 
 · Unlike labs, you will complete homework assignments on your own, without a partner. 
@@ -66,12 +69,16 @@ DISABLED STUDENT SERVICES is a student support program within the Student Servic
 Attendance and Drops Attendance is not required, but all material presented during lecture or lab is fair game for exam questions. I will not redo a lecture for people who missed it the first time. If you miss a class day, it is your responsibility to obtain notes from someone who attended. I do not give pop quizzes. Absences will not excuse you from turning in lab or project assignments on time. You are given plenty of time to complete these assignments, so pace yourself and plan to finish them early in case an emergency causes you to miss a day of class. I will honor drop requests where permitted by university policy.
 
 
-Academic Honesty 
+Academic Honesty
+
 Some assignments (Homework) in this class are designated as individual work only. 
 
 You may discuss ideas with others, but you may not share code, algorithms, or solutions with any individual on any of these assignments. 
 
 Some assignments (Labs) are pair work only. You are not to share code, algorithms, or solutions to the assignment with any individual except for your partner for the assignment. 
+
+If you cannot complete an assignment on your own, the correct approach is to ask me or lab instructors for help during lab or me during office
+hours.
 
 You are not in high school, where cheating is "against the rules" but not actually punished. If I catch you sharing code, discussing solutions, exchanging test cases, or in any way collaborating about one of the assignments, I will reduce your final grade by one full letter grade and report your cheating to the administration. This goes for all parties involved. This is for your own good. You will not make it in this discipline if you cannot write difficult code on your own.
 
@@ -81,5 +88,4 @@ If you are unable to answer simple questions about your code to my satisfaction,
 All instances of plagiarism or cheating, no matter how slight, will result in at least a 0 grade for the relevant assignment, and your final letter grade in the course will be reduced by one full grade; the incident will be reported to administration.
 
 P.S.: It has been a year since I took Neal Terrell. At this rate and on, Rosswell has officially retired from being a lab leader!
-
-Again, Neal Terrell will guide and push you just like Robert Mena
+Neal Terrell and lab instructors will guide and push you to find the awswer just like Robert Mena.
