@@ -11,7 +11,11 @@ Honorable Mentions: Harold, Weasley
 
 Course Description Introduction to basic concepts of computer science and fundamental techniques for solving problems using the Python programming language. Variables, data types, conditional statements, loops and arrays. Programming style. Applications to numerical and non-numerical problems. Pre-requisites: CECS 100 and MATH 113 (or equivalent)
 
-Course Materials Textbooks: We will use an online textbook from Zybooks, customized to fit the content of this course. To purchase the book: · Go to the CSULB bookstore, in person or online at http://csulb.verbacompare.com/comparison?id=378319 · After purchasing the book, sign in or create an account at learn.zybooks.com 
+Course Materials Textbooks: We will use an online textbook from Zybooks, customized to fit the content of this course. 
+
+To purchase the book: 
+· Go to the CSULB bookstore, in person or online at http://csulb.verbacompare.com/comparison?id=378319 
+· After purchasing the book, sign in or create an account at learn.zybooks.com 
 · Subscribe using the code from the bookstore Online activities from the textbook will account for a portion of your overall grade, so you will need your own copy of the book. Supplementary material outside of the class textbook will be presented and included in tests, learning activities and programming projects.
 
 Communication We will use two different means of communication for this course: 
@@ -55,8 +59,22 @@ Homework are longer assignments designed to require a more significant investmen
 
 Midterm and final exam are closed-notes and closed-book.
 
-Late penalties: labs and homework will be assessed a 10% late penalty for any fraction of a day that they are late, up to three weekdays after the deadline. Exceptions to this policy can be made in case of illness or personal matters as long as they are substantiated and notication is given at least one day prior to the deadline.
-Guidelines For Success in This Class Once you have allocated the necessary time for this course, the following suggestions, courtesy of Undergraduate Adviser Dr. Alvaro Monge, should help you plan your time: · Prepare for class by completing the assigned readings before the start of the class meeting. · Be on time. Class sessions will start promptly. · Write code on your own. As with other STEM classes, reading a book is not sucient to understanding the concepts and thus be successful. You must solve problems on your own. Consider the exercises and problems in the textbook and and solve them. Or if you read an example and you wonder "what if..." try it out! · Start assignments early so you have time to ask questions.  Face to face questions are better than email.  If you spend more than 15 minutes and are "stuck" on something, ask for help!  If you email me asking for help the night before something is due you should not be upset if I do not answer.  Make use of the oce hours early! Don't wait until late in the term to seek help. · Make sure that your code runs in the lab. This is especially important for those who complete portions of their work at home. Verify that code that runs on another machine actually runs in the lab so there are no surprises at grading time. · Seek tutoring if needed. There are at least two centers that provide free tutoring in CECS 174. The College of Engineering Tutoring Center oers free tutoring for many engineering courses including CECS 174. Tutors are available Monday through Friday during the fall and spring semesters between the hours of 9:00am-6:00pm in EN2-300. The center's website has the detailed schedule. In addition, the HSI STEM program provides tutoring services in many STEM courses, including CECS 174; these services are also free.
+Late penalties: labs and homework will be assessed a 10% late penalty for any fraction of a day that they are late, up to three weekdays after the deadline. Exceptions to this policy can be made in case of illness or personal matters as long as they are substantiated and notification is given at least one day prior to the deadline.
+
+Guidelines For Success in This Class Once you have allocated the necessary time for this course, the following suggestions, courtesy of Undergraduate Adviser Dr. Alvaro Monge, should help you plan your time: 
+· Prepare for class by completing the assigned readings before the start of the class meeting. 
+· Be on time. Class sessions will start promptly. 
+· Write code on your own. As with other STEM classes, reading a book is not sufficient to understanding the concepts and thus be successful. You must solve problems on your own. Consider the exercises and problems in the textbook and and solve them. Or if you read an example and you wonder "what if..." try it out! 
+· Start assignments early so you have time to ask questions. 
+ 
+ Face to face questions are better than email. 
+ If you spend more than 15 minutes and are "stuck" on something, ask for help! 
+ If you email me asking for help the night before something is due you should not be upset if I do not answer. 
+ Make use of the office hours early! Don't wait until late in the term to seek help. 
+ Make sure that your code runs in the lab. This is especially important for those who complete portions of their work at home. Verify that code that runs on another machine actually runs in the lab so there are no surprises at grading time. · Seek tutoring if needed. There are at least two centers that provide free tutoring in CECS 174. 
+ The College of Engineering Tutoring Center offers free tutoring for many engineering courses including CECS 174. 
+ Tutors are available Monday through Friday during the fall and spring semesters between the hours of 9:00am-6:00pm in EN2-300. 
+ The center's website has the detailed schedule. In addition, the HSI STEM program provides tutoring services in many STEM courses, including CECS 174; these services are also free.
 
 
 · Finally, remember, programming takes practice. You may not get it the first time, but keep trying, ask for help, and do your best. Eventually, you might find out that you are pretty good at this whole process!
